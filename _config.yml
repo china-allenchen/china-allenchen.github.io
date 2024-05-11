@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "chenlin.png"
-  name             : "Lin Chen陳林"
+  name             : "Lin Chen (陳 林)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : #"Earth"
   employer         : "Chongqing Normal University"
   uri              : # URL
-  email            : "allenchen@cqnu.edu.cn" 
+  email            : #"allenchen@cqnu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

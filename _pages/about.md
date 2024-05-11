@@ -11,9 +11,7 @@ About me
 ======
 Lin Chen (陈林)
 
-Associate Professor
-
-[School of Mathematical Sciences](https://math.cqnu.edu.cn/) of [Chongqing Normal University](https://www.cqnu.edu.cn/)
+Associate Professor, [School of Mathematical Sciences](https://math.cqnu.edu.cn/), [Chongqing Normal University](https://www.cqnu.edu.cn/)
 
 Getting started
 ======

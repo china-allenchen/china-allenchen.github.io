@@ -1,7 +1,16 @@
 About me
 ======
-Lin Chen (陈林), Associate Professor, [School of Mathematical Sciences](https://math.cqnu.edu.cn/), [Chongqing Normal University](https://www.cqnu.edu.cn/)
+Lin Chen (陈林)
 
+Associate Professor
+
+[School of Mathematical Sciences](https://math.cqnu.edu.cn/)
+
+[Chongqing Normal University](https://www.cqnu.edu.cn/)
+
+University Town, Shapingba District, Chongqing, China
+
+E-mail: allenchen@cqnu.edu.cn
 
 Office Location: Huixian Building, Room 426B
 

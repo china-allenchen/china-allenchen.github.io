@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 About me
 ======
 Lin Chen (陈林), Associate Professor, [School of Mathematical Sciences](https://math.cqnu.edu.cn/), [Chongqing Normal University](https://www.cqnu.edu.cn/)

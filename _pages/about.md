@@ -10,7 +10,9 @@ redirect_from:
 About me
 ======
 Lin Chen (陈林)
+
 Associate Professor
+
 School of Mathematical Sciences of Chongqing Normal University
 
 Getting started

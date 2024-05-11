@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dr. Lin Chen's Home page"
 title_separator          : "-"
-name                     : &name "陳林"
+name                     : &name "Lin Chen"
 description              : &description "personal description"
 url                      : https://china-allenchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "chenlin.png"
-  name             : "Lin Chen"
+  name             : "Lin Chen陳林"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"

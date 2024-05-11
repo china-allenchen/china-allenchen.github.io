@@ -9,7 +9,7 @@ redirect_from:
 
 
 ------
-Lin Chen
+Lin Chen (陈 林)
 
 Associate Professor
 

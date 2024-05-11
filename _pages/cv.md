@@ -26,7 +26,7 @@ Work experience
   * Collaborator: Professor Xiaojun Chen
 
 * Jul. 2017 - Sep. 2019: Postdoctor
-  * University of Electronic Science and technology of China
+  * University of Electronic Science and Technology of China
   * Collaborator: Professor Liwei Xu
    
 * Oct. 2018 - Mar. 2019: Research Associate

@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "chenlin.png"
-  name             : "Lin Chen (陈 林)"
+  name             : #"Lin Chen (陈 林)"
   pronouns         : # example: "she/her"  
   bio              : #"欲壑難填，知足爲上！"
   location         : #"Earth"

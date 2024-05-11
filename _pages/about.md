@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+
 ------
 Lin Chen (陈林)
 

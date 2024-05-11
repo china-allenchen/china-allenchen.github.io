@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,23 +17,19 @@ Education
 
 Work experience
 ======
-* Sep. 2019- 
+* Sep. 2019-           (Associate Professor from Jan. 2023) 
   * Chongqing Normal University 
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+ 
 
-* Sep. 2023 - Jan. 2024: Research FellowAssociate
+* Sep. 2023 - Jan. 2024: Research Fellow
   * The Hong Kong Polytechnic University  
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Xiaojun Chen
+  * Collaborator: Professor Xiaojun Chen
 
 * Jul. 2017 - Sep. 2019: Postdoctor
   * University of Electronic Science and technology of China
-  * Duties included: Tagging issues
-  * Supervisor: Professor Liwei Xu
+  * Collaborator: Professor Liwei Xu
    
 * Oct. 2018 - Mar. 2019: Research Associate
   * The Hong Kong Polytechnic University University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Xiaojun Chen 
+  * Collaborator: Professor Xiaojun Chen 
 

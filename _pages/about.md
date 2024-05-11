@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
 About me
 ======
 Lin Chen (陈林)
@@ -19,7 +29,7 @@ Getting started
 ======
 I have joined in the School of Mathematical Sciences, Chongqing Normal University from September 2019. Prior to joining CQNU, I was a post doctor working with Professor Liwei Xu for 2 years in the School of Mathematical Sciences, University of Electronic Science and Technology of China.  I was born in Luzhou, Sichuan province, China.  I obtained BSc in mathematics  and MSc in convex optimization from Chongqing Normal University in 2005-2012. My PhD study was on stochastic programming supervised by Professor Xinmin Yang. 
 
-Site-wide configuration
+Research Interests
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 

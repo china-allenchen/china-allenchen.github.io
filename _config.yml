@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Lin Chen's Home page / Site Title"
+title                    : "Dr. Lin Chen's Home page / Dr. Lin Chen's Home page"
 title_separator          : "-"
 name                     : &name "Lin Chen"
 description              : &description "personal description"

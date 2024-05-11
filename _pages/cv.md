@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* Sep. 2019-           (Associate Professor from Jan. 2023) 
-  * Chongqing Normal University 
+* Sep. 2019-          
+  * Chongqing Normal University  (Associate Professor from Jan. 2023) 
  
 
 * Sep. 2023 - Jan. 2024: Research Fellow

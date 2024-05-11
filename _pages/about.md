@@ -19,7 +19,7 @@ Associate Professor
 
 University Town, Shapingba District, Chongqing, China
 
-
+------
 E-mail: allenchen@cqnu.edu.cn
 
 Office Location: Huixian Building, Room 426B

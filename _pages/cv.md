@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
 * Ph.D in Operational Research and Cybernetics, Sichuan University, 2017
 * M.S. in Operational Research and Cybernetics, Chongqing Normal University, 2012
 * B.S. in Mathematics and applied mathematics, Chongqing Normal University, 2009
+
+---
 
 Research experience
 ======

@@ -17,21 +17,21 @@ Education
 
 Research experience
 ======
-* Associate Professor(Jan. 2023-)
+* Associate Professor (Jan. 2023-)
   
-  Lecturer(Sep. 2019- Dec. 2022)
+  Lecturer (Sep. 2019- Dec. 2022)
   
   Chongqing Normal University 
 
 
-* Research Fellow(Sep. 2023 - Jan. 2024)
+* Research Fellow (Sep. 2023 - Jan. 2024)
   
   The Hong Kong Polytechnic University
   
   Collaborator: Professor Xiaojun Chen
 
 
-* Postdoctor(Jul. 2017 - Sep. 2019)
+* Postdoctor (Jul. 2017 - Sep. 2019)
    
   University of Electronic Science and Technology of China
   
@@ -39,7 +39,7 @@ Research experience
   
 
 
-* Research Associate(Oct. 2018 - Mar. 2019)
+* Research Associate (Oct. 2018 - Mar. 2019)
   
   The Hong Kong Polytechnic University University
   

@@ -23,7 +23,7 @@ Contact
 ------
 E-mail: allenchen@cqnu.edu.cn
 
-Office Location: Huixian Building, Room 426B
+Office Location: Room 426B, Huixian Building
 
 Research interest
 ------

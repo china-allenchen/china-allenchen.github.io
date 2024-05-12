@@ -19,7 +19,7 @@ Associate Professor
 
 University Town, Shapingba District, Chongqing, China
 
-ContactSummary of my research
+Contact
 ------
 E-mail: allenchen@cqnu.edu.cn
 

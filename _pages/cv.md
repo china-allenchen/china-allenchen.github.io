@@ -23,6 +23,7 @@ Research experience
   
   Chongqing Normal University 
 
+---
 
 * Research Fellow (Sep. 2023 - Jan. 2024)
   
@@ -30,6 +31,7 @@ Research experience
   
   Collaborator: Professor Xiaojun Chen
 
+---
 
 * Postdoctor (Jul. 2017 - Sep. 2019)
    
@@ -37,7 +39,7 @@ Research experience
   
   Collaborator: Professor Liwei Xu
   
-
+---
 
 * Research Associate (Oct. 2018 - Mar. 2019)
   

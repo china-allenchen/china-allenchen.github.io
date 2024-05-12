@@ -15,22 +15,22 @@ Education
 * M.S. in Operational Research and Cybernetics, Chongqing Normal University, 2012
 * B.S. in Mathematics and applied mathematics, Chongqing Normal University, 2009
 
-Work experience
+Research experience
 ======
-* Jan. 2023- : Associate Professor
-* Sep. 2019- Dec. 2022: Lecture        
-  * Chongqing Normal University  (Associate Professor from Jan. 2023) 
+* Associate Professor(Jan. 2023-)
+  Lecturer(Sep. 2019- Dec. 2022)        
+  Chongqing Normal University 
  
 
-* Sep. 2023 - Jan. 2024: Research Fellow
-  * The Hong Kong Polytechnic University  
-  * Collaborator: Professor Xiaojun Chen
+* Research Fellow(Sep. 2023 - Jan. 2024)
+  The Hong Kong Polytechnic University  
+  Collaborator: Professor Xiaojun Chen
 
-* Jul. 2017 - Sep. 2019: Postdoctor
-  * University of Electronic Science and Technology of China
-  * Collaborator: Professor Liwei Xu
+* Postdoctor(Jul. 2017 - Sep. 2019)
+  University of Electronic Science and Technology of China
+  Collaborator: Professor Liwei Xu
    
-* Oct. 2018 - Mar. 2019: Research Associate
-  * The Hong Kong Polytechnic University University
-  * Collaborator: Professor Xiaojun Chen 
+* Research Associate(Oct. 2018 - Mar. 2019)
+  The Hong Kong Polytechnic University University
+  Collaborator: Professor Xiaojun Chen 
 

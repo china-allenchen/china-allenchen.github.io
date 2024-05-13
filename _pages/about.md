@@ -29,8 +29,8 @@ Research interest
 ------
 My research interest lies in the stochastic optimization with applications and focuses on the study of the theoretical and computational aspects of optimization algorithms.
 
-------
-
 Publications
 ------
 You can find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=EsiHve0AAAAJ&hl=zh-CN&oi=sra).
+
+---

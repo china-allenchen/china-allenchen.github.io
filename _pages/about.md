@@ -33,4 +33,4 @@ My research interest lies in the stochastic optimization with applications and f
 
 Publications
 ------
-You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+You can find my articles on [my Google Scholar profile](https://scholar.google.com.hk/citations?user=EsiHve0AAAAJ&hl=zh-CN&oi=sra).
